@@ -147,7 +147,7 @@ const Faq_1 = () => {
 									</div>
 									<div className="accordion-content text-[#2C2C2C]">
 										<p>
-											We take data privacy and security very seriously and have implemented a range of measures to ensure the protection of our clients' data.
+											We take data privacy and security very seriously and have implemented a range of measures to ensure the protection of our clients&apos; data.
 										</p>
 									</div>
 								</li>
@@ -199,7 +199,7 @@ const Faq_1 = () => {
 									</div>
 									<div className="accordion-content text-[#2C2C2C]">
 										<p>
-											We provide ongoing support and maintenance to ensure that our clients' AI solutions continue to meet their evolving needs.
+											We provide ongoing support and maintenance to ensure that our clients&apos; AI solutions continue to meet their evolving needs.
 										</p>
 									</div>
 								</li>
